@@ -1,9 +1,9 @@
 # COS 201 — Computer Programming I
 
 ## Student Information
-- **Name:** ADEBANJO OLUWASEUN DAVID
-- **Matriculation Number:** 25/16794
-- **Department:** Cyber security 
+- **Name:** ENIODUNMO DIEKOLOREOLUWA JOSEPH 
+- **Matriculation Number:** 25/16200
+- **Department:** COMPUTER SCIENCE 
 - **Level:** 200 Level
 - **Course:** COS 201
 - **Week:** 2
